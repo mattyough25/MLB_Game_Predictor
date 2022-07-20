@@ -1,1 +1,2 @@
 # MLB_Game_Predictor
+To run the predictor first scrape the data using training_scrape.py. Then train your model using train_model.py. Lastly, employ your model to make predictions on the days games using future_prediction.py.
